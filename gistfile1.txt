@@ -1,0 +1,203 @@
+
+
+<!DOCTYPE html><html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Glenn Cowan Flooring | Professional Floor Installation</title>
+  <meta name="description" content="Professional floor installation services by Glenn Cowan Flooring. Quality workmanship, free quotes, and reliable service." />
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, Helvetica, sans-serif;
+      line-height: 1.6;
+      color: #222;
+      background: #f7f7f7;
+    }
+    header {
+      background: #1f2933;
+      color: #fff;
+      padding: 20px;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 28px;
+    }
+    nav {
+      margin-top: 10px;
+    }
+    nav a {
+      color: #fff;
+      margin-right: 15px;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    nav a:hover {
+      text-decoration: underline;
+    }
+    .hero {
+      background: #e5e7eb;
+      padding: 60px 20px;
+      text-align: center;
+    }
+    .hero h2 {
+      font-size: 36px;
+      margin-bottom: 10px;
+    }
+    .hero p {
+      font-size: 18px;
+      max-width: 700px;
+      margin: 0 auto 20px;
+    }
+    .btn {
+      display: inline-block;
+      background: #111827;
+      color: #fff;
+      padding: 12px 25px;
+      text-decoration: none;
+      border-radius: 5px;
+    }
+    .btn:hover {
+      background: #000;
+    }
+    .container {
+      max-width: 1000px;
+      margin: auto;
+      padding: 40px 20px;
+      background: #fff;
+    }
+    h3 {
+      font-size: 26px;
+      margin-bottom: 15px;
+    }
+    .services {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+      gap: 20px;
+    }
+    .service-box {
+      background: #f3f4f6;
+      padding: 20px;
+      border-radius: 5px;
+    }
+    form {
+      max-width: 600px;
+    }
+    form input, form textarea {
+      width: 100%;
+      padding: 12px;
+      margin-bottom: 15px;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+      font-size: 16px;
+    }
+    form button {
+      background: #111827;
+      color: #fff;
+      border: none;
+      padding: 12px 20px;
+      font-size: 16px;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+    form button:hover {
+      background: #000;
+    }
+    footer {
+      text-align: center;
+      padding: 20px;
+      background: #1f2933;
+      color: #fff;
+    }
+  </style>
+</head>
+<body><header>
+  <h1>Glenn Cowan Flooring</h1>
+  <nav>
+    <a href="#home">Home</a>
+    <a href="#about">About</a>
+    <a href="#services">Services</a>
+    <a href="#contact">Contact</a>
+    <a href="tel:07493 250108" style="background:#fff;color:#111827;padding:6px 10px;border-radius:4px;">Call Now</a>
+  </nav>
+</header><section class="hero" id="home">
+  <h2>Professional Floor Installation</h2>
+  <p>High-quality flooring installation you can trust. Reliable service, attention to detail, and free quotes.</p>
+  <a href="#contact" class="btn">Get a Free Quote</a>
+</section><section class="container" id="about">
+  <h3>About Glenn Cowan Flooring</h3>
+  <p>
+    Glenn Cowan Flooring provides professional floor installation services for homes and businesses.
+    We take pride in delivering excellent workmanship, honest pricing, and a clean, reliable service from start to finish.
+  </p>
+</section><section class="container" id="gallery">
+  <h3>Our Recent Work</h3>
+  <p>Real flooring installations completed by Glenn Cowan Flooring.</p>
+  <div class="services">
+    <div class="service-box"><img src="photo1.jpg" alt="Commercial vinyl corridor" style="width:100%; border-radius:5px;"><p>Commercial vinyl flooring – healthcare corridor</p><a href="#contact" class="btn" style="margin-top:10px; display:inline-block;">Request a Quote</a></div>
+    <div class="service-box"><img src="photo2.jpg" alt="Patterned vinyl flooring" style="width:100%; border-radius:5px;"><p>Custom patterned vinyl flooring installation</p><a href="#contact" class="btn" style="margin-top:10px; display:inline-block;">Request a Quote</a></div>
+    <div class="service-box"><img src="photo3.jpg" alt="Commercial flooring walkway" style="width:100%; border-radius:5px;"><p>Heavy-duty commercial flooring walkway</p><a href="#contact" class="btn" style="margin-top:10px; display:inline-block;">Request a Quote</a></div>
+    <div class="service-box"><img src="photo4.jpg" alt="Herringbone vinyl flooring" style="width:100%; border-radius:5px;"><p>Herringbone-style vinyl plank installation</p><a href="#contact" class="btn" style="margin-top:10px; display:inline-block;">Request a Quote</a></div>
+    <div class="service-box"><img src="photo5.jpg" alt="Detailed floor inlay" style="width:100%; border-radius:5px;"><p>Specialist floor inlay & detailing</p><a href="#contact" class="btn" style="margin-top:10px; display:inline-block;">Request a Quote</a></div>
+    <div class="service-box"><img src="photo6.jpg" alt="Large commercial flooring project" style="width:100%; border-radius:5px;"><p>Large-scale commercial flooring project</p><a href="#contact" class="btn" style="margin-top:10px; display:inline-block;">Request a Quote</a></div>
+  </div>
+</section><section class="container" id="services">
+  <h3>Our Services</h3>
+  <div class="services">
+    <div class="service-box">
+      <h4>Laminate Flooring</h4>
+      <p>Durable, stylish laminate flooring installed with precision and care.</p>
+    </div>
+    <div class="service-box">
+      <h4>Vinyl Flooring</h4>
+      <p>Modern vinyl solutions that are practical, waterproof, and long-lasting.</p>
+    </div>
+    <div class="service-box">
+      <h4>Wood Flooring</h4>
+      <p>Beautiful wood flooring installation for a premium, timeless finish.</p>
+    </div>
+    <div class="service-box">
+      <h4>Repairs & Replacements</h4>
+      <p>Floor repairs and replacements to restore your space properly.</p>
+    </div>
+  </div>
+</section><section class="container" id="service-area">
+  <h3>Service Area</h3>
+  <p>Glenn Cowan Flooring is based in <strong>Belfast</strong> and proudly serves Belfast and surrounding areas across Northern Ireland.</p>
+  <ul>
+    <li>Belfast</li>
+    <li>Lisburn</li>
+    <li>Bangor</li>
+    <li>Newtownabbey</li>
+    <li>Holywood</li>
+    <li>Carrickfergus</li>
+  </ul>
+  <div style="margin-top:20px;">
+    <iframe src="https://www.google.com/maps?q=Belfast%2C%20Northern%20Ireland&output=embed" width="100%" height="300" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+  </div>
+</section><section class="container" id="contact">
+  <h3>Contact Us</h3>
+  <p>Get in touch today for a free quote or to ask any questions.</p>
+  <p><strong>Call us:</strong> <a href="tel:07493 250108">07493 250108</a></p>
+  <form action="https://formspree.io/f/2919272891855928704" method="POST">
+    <input type="text" name="name" placeholder="Your Name" required />
+    <input type="email" name="email" placeholder="Your Email" required />
+    <input type="tel" name="phone" placeholder="Your Phone Number" />
+    <textarea name="message" rows="5" placeholder="Tell us about your flooring project" required></textarea>
+    <button type="submit">Send Message</button>
+  </form>
+  <p style="font-size:14px;color:#555;">Form sends directly to your email. No account needed for testing.</p>
+</section><section class="container" id="google-business">
+  <h3>Find Us on Google</h3>
+  <p>Glenn Cowan Flooring is listed on Google Business Profile, helping local customers find and contact us easily.</p>
+  <ul>
+    <li>✔ Appears in Google Maps and local search results</li>
+    <li>✔ Verified Belfast-based flooring installer</li>
+    <li>✔ Customers can call or request directions instantly</li>
+  </ul>
+  <p><strong>Service Area:</strong> Belfast & surrounding areas across Northern Ireland</p>
+  <p style="font-size:14px;color:#555;">Search <em>“Glenn Cowan Flooring Belfast”</em> on Google to view our business profile.</p>
+</section><footer>
+  <p>&copy; 2026 Glenn Cowan Flooring. All rights reserved.</p>
+</footer></body>
+</html>
